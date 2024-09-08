@@ -9,9 +9,9 @@ import { Footer } from "./components/Footer";
 import { BlobCursor } from "./components/Mouse";
 import { Particles } from "./components/Particles";
 import React from 'react';
+import './footer.scss'
 import './particle.scss'
 import './contact.scss'
-import './footer.scss'
 
 
 
