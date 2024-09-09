@@ -8,10 +8,11 @@ import { Contact } from "./components/Contact";
 import { Footer } from "./components/Footer";
 import { BlobCursor } from "./components/Mouse";
 import { Particles } from "./components/Particles";
-import React from 'react';
 import './particle.scss'
 import './contact.scss'
 import './footer.scss'
+import React from 'react';
+
 
 
 
