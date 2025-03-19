@@ -35,7 +35,7 @@ export const Banner = () => {
 
                 <button className="drift-open-chat" onClick={handleOpenChat}>
                   <div className="button-container">
-                    <img src={blob_image} alt="Button Background Image" />
+                    <img src={blob_image} alt="Button Background" />
                     <div className="text-container">
                       <p>Click to Chat</p>
                     </div>
